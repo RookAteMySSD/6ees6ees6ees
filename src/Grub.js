@@ -5,5 +5,5 @@ class Grub {
 };
 
 Grub.prototype.eat = function(food) {
-  return 'Mmmmmmmmm jelly'
-}
+  return 'Mmmmmmmmm jelly';
+};

@@ -6,9 +6,9 @@ class HoneyMakerBee extends Bee {
 };
 
 HoneyMakerBee.prototype.makeHoney = function() {
-  this.honeyPot += 1
-}
+  this.honeyPot += 1;
+};
 
 HoneyMakerBee.prototype.giveHoney = function() {
-  this.honeyPot -= 1
-}
+  this.honeyPot -= 1;
+};
